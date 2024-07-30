@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KidsDrawing</string>
+    <string name="small_size_brush">small size Brush</string>
+    <string name="medium_size_brush">medium size Brush</string>
+    <string name="large_size_brush">large size Brush</string>
+    <string name="select_brush_color">select brush color</string>
+</resources>
